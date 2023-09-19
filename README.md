@@ -9,9 +9,7 @@ The IBM AI Engineering Professional Certificate is a comprehensive program that 
  - [Introduction to Deep Learning & Neural Networks with Keras](https://github.com/SUKHMAN-SINGH-1612/IBM-AI-Engineering/tree/main/Introduction%20to%20Deep%20Learning%20%26%20Neural%20Networks%20with%20Keras/Week%201)
 
 ## Contributions
-
-We welcome contributions from the community to enhance the learning experience for everyone. If you have suggestions, improvements, or additional resources, please feel free to open issues or submit pull requests.
+Contributions are welcome! If you would like to contribute to this repository, please follow the guidelines outlined in [CONTRIBUTING.md](https://github.com/SUKHMAN-SINGH-1612/IBM-AI-Engineering/blob/main/CONTRIBUTING.md). Any improvements, bug fixes, or additional projects are greatly appreciated.
 
 ## License
-
 This repository is provided under the [MIT License](./LICENSE). Please review the license before using or contributing to this repository.
