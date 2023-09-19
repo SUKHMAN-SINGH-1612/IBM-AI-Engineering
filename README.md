@@ -13,3 +13,6 @@ Contributions are welcome! If you would like to contribute to this repository, p
 
 ## License
 This repository is provided under the [MIT License](./LICENSE). Please review the license before using or contributing to this repository.
+
+## Feedback and Contact
+I welcome any feedback, suggestions, or questions you may have about the projects or the repository. Feel free to reach out to me via email at [sukhmansinghbhogal@gmail.com](mailto:sukhmansinghbhogal@gmail.com)
