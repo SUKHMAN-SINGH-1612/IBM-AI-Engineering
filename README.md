@@ -1,4 +1,5 @@
 # IBM-AI-Engineering
+![](https://images.ctfassets.net/wp1lcwdav1p1/5maw13sYG3aYOco87fOgsH/34df160b253cfc19d29186d50ea68a3b/iStock-1205321953.jpg?w=1500&h=680&q=60&fit=fill&f=faces&fm=jpg&fl=progressive)
 
 Welcome to the IBM AI Engineering repository! This repository serves as a centralized hub for the course materials, including Jupyter notebooks, assignments, and resources, for the IBM AI Engineering Professional Certificate program. Whether you're a learner enrolled in the program or simply interested in AI and machine learning, you'll find valuable content here.
 
