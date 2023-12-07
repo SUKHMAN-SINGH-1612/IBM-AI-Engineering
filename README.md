@@ -10,7 +10,8 @@ The IBM AI Engineering Professional Certificate on Coursera is a comprehensive p
  - [Introduction to Deep Learning & Neural Networks with Keras](https://github.com/SUKHMAN-SINGH-1612/IBM-AI-Engineering/tree/main/Introduction%20to%20Deep%20Learning%20%26%20Neural%20Networks%20with%20Keras)
  - [Introduction to Computer Vision and Image Processing](https://github.com/SUKHMAN-SINGH-1612/IBM-AI-Engineering/tree/main/Introduction%20to%20Computer%20Vision%20and%20Image%20Processing)
  - [Deep Neural Networks with PyTorch](https://github.com/SUKHMAN-SINGH-1612/IBM-AI-Engineering/tree/main/Deep%20Neural%20Networks%20with%20PyTorch)
-
+ - [Building Deep Learning Models with TensorFlow](https://github.com/SUKHMAN-SINGH-1612/IBM-AI-Engineering/tree/main/Building%20Deep%20Learning%20Models%20with%20TensorFlow)
+   
 ## Contributing
 Contributions are welcome! If you would like to contribute to this repository, please follow the guidelines outlined in [CONTRIBUTING.md](https://github.com/SUKHMAN-SINGH-1612/IBM-AI-Engineering/blob/main/CONTRIBUTING.md). Any improvements, bug fixes, or additional projects are greatly appreciated.
 
