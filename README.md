@@ -20,3 +20,6 @@ This repository is provided under the [MIT License](./LICENSE). Please review th
 
 ## Feedback and Contact
 I welcome any feedback, suggestions, or questions you may have about the projects or the repository. Feel free to reach out to me via email at [sukhmansinghbhogal@gmail.com](mailto:sukhmansinghbhogal@gmail.com)
+
+## My Website
+[www.sukhmansingh.tech](www.sukhmansingh.tech)
